@@ -57,7 +57,7 @@ Press Play
 
 
 ## 🗺️ Development Roadmap
-### Phase 1: Core Prototype ✅
+### Phase 1: Core Prototype
 
  Basic movement system
  Combat mechanics
