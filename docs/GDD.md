@@ -75,10 +75,10 @@ graph TD;
 - Environmental interaction: Push objects, activate switches
 
 ### Combat
-See detailed documentation: Combat System
+See detailed documentation: [Combat System](/docs/design/combat-system.md)
 
 ### Progression
-See detailed documentation: Meta Progression
+See detailed documentation: [CMeta Progression](/docs/design/meta-progression.md)
 
 ## Visual Design
 
