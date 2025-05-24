@@ -3,7 +3,7 @@
 A top-down roguelite where you descend from floor 100 to floor 1 of a mysterious tower. Death returns you to the top, but collected "Echoes" persist for permanent upgrades.
 
 ![Game Logo](assets/logo.png)
-[![Unity](https://img.shields.io/badge/Unity-2022.3%20LTS-blue.svg)](https://unity.com)
+[![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=flat&logo=unity)](https://unity3d.com)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ## 🎮 Game Overview
