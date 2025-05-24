@@ -8,25 +8,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Added
-- Initial project setup
-- Basic movement system
-- Camera controller
-- Project documentation
+- N/A
 
 ### Changed
-- Switched from 3D to 2D implementation
-- Refined camera angle to 45 degrees
+- N/A
 
 ### Fixed
 - N/A
 
 ## [0.1.0] - 2025-01-XX
 
-### Added
-- Unity project initialization
-- Basic folder structure
-- Core documentation
-- GitHub repository setup
+- N/A
 
 ---
 
