@@ -47,14 +47,14 @@ Open the project in Unity
 Load the MainMenu scene
 Press Play
 
-##📖 Documentation
+## 📖 Documentation
 
 Game Design Document
 Technical Documentation
 Design Documents
 Changelog
 
-##🗺️ Development Roadmap
+## 🗺️ Development Roadmap
 Phase 1: Core Prototype ✅
 
  Basic movement system
@@ -85,7 +85,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Inspired by: Hades, Enter the Gungeon, The Binding of Isaac
 Camera system inspired by The Precinct
 
-##📞 Contact
+## 📞 Contact
 
 Developer: Eru0bay
 Email: Ery0bay@gmail.com
