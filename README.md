@@ -23,7 +23,7 @@ A top-down roguelite where you descend from floor 100 to floor 1 of a mysterious
 ## 🚀 Getting Started
 
 ### Prerequisites
-- Unity 2022.3 LTS or higher
+- Unity 6 LTS or higher
 - Git LFS (for large asset files)
 
 ### Installation
