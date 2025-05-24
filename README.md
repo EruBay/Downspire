@@ -18,7 +18,7 @@ A top-down roguelite where you descend from floor 100 to floor 1 of a mysterious
 - 🎲 **Procedural Generation** - Every run is unique
 - 🗝️ **Themed Floors** - Each floor tells its own story
 - 💀 **Roguelite Elements** - Death is progress with persistent upgrades
-- 🎨 **2.5D Visuals** - top-down perspective with depth, isometric
+- 🎨 **2.5D Visuals** - Top-down perspective with depth, isometric
 
 ## 🚀 Getting Started
 
