@@ -41,19 +41,19 @@ Downspire is a top-down roguelite where players descend from floor 100 to floor 
 
 ### Macro Loop (Run)
 ```mermaid
-graph LR
-    A[Start Floor 100] --> B[Explore Floor]
-    B --> C[Combat Enemies]
-    C --> D[Find Boss]
-    D --> E[Defeat Boss]
-    E --> F[Collect Key Item]
-    F --> G[Unlock Door]
-    G --> H[Descend]
-    H --> I{Death?}
-    I -->|Yes| J[Collect Echoes]
-    I -->|No| B
-    J --> K[Upgrade Character]
-    K --> A
+graph LR;
+    A[Start Floor 100] --> B[Explore Floor];
+    B --> C[Combat Enemies];
+    C --> D[Find Boss];
+    D --> E[Defeat Boss];
+    E --> F[Collect Key Item];
+    F --> G[Unlock Door];
+    G --> H[Descend];
+    H --> I{Death?};
+    I -->|Yes| J[Collect Echoes];
+    I -->|No| B;
+    J --> K[Upgrade Character];
+    K --> A;
 Micro Loop (Floor)
 ```
 Enter floor
