@@ -49,10 +49,12 @@ Press Play
 
 ## 📖 Documentation
 
-[Game Design Document](/docs/)
-Technical Documentation
-Design Documents
-Changelog
+[Game Design Document](/docs)
+[Technical Documentation](/docs/technical)
+[Design Documents](/docs/design)
+[Changelog](/docs/CHANGELOG.md)
+
+
 
 ## 🗺️ Development Roadmap
 ### Phase 1: Core Prototype ✅
