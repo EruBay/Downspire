@@ -57,59 +57,55 @@ graph TD;
 ```
 
 ## Micro Loop (Floor)
-Enter floor
-Explore rooms
-Fight enemies
-Collect loot/echoes
-Find boss room
-Boss battle
-Claim key item
-Find and unlock exit
+1 Enter floor
+2 Explore rooms
+3 Fight enemies
+4 Collect loot/echoes
+5 Find boss room
+6 Boss battle
+7 Claim key item
+8 Find and unlock exit
 
 ## Game Mechanics
-Movement
 
-8-directional movement with analog stick support
-Base speed: 5 units/second
-Dodge roll: 8 units distance, 0.5s duration, 0.2s i-frames
-Environmental interaction: Push objects, activate switches
+### Movement
+- 8-directional movement with analog stick support
+- Base speed: 5 units/second
+- Dodge roll: 8 units distance, 0.5s duration, 0.2s i-frames
+- Environmental interaction: Push objects, activate switches
 
-Combat
+### Combat
 See detailed documentation: Combat System
-Progression
+
+### Progression
 See detailed documentation: Meta Progression
 
 ## Visual Design
-Camera System
 
-Type: 2.5D top-down perspective
-Angle: 45-60 degrees
-Features:
+### Camera System
+- Type: 2.5D top-down perspective
+- Angle: 45-60 degrees
+- Features:
+    - Smooth follow with lookahead
+    - Combat zoom-out
+    - Dramatic moment zoom-in
+    - Screen shake for impact
 
-Smooth follow with lookahead
-Combat zoom-out
-Dramatic moment zoom-in
-Screen shake for impact
-
-
-
-Art Direction
-
-Style: Dark fantasy with environmental decay
-Palette: Varies by floor theme
-Lighting: Dynamic shadows, ambient glow
-Effects: Particle systems for atmosphere
+### Art Direction
+- Style: Dark fantasy with environmental decay
+- Palette: Varies by floor theme
+- Lighting: Dynamic shadows, ambient glow
+- Effects: Particle systems for atmosphere
 
 ## Level Design
 
-Floor Structure
+### Floor Structure
+- Size: 15-20 rooms per floor
+- Layout: Procedural with handcrafted rooms
+- Secrets: 1-3 per floor
+- Pacing: Combat -> Exploration -> Boss
 
-Size: 15-20 rooms per floor
-Layout: Procedural with handcrafted rooms
-Secrets: 1-3 per floor
-Pacing: Combat -> Exploration -> Boss
-
-Example Floors
+### Example Floors
 See detailed documentation: Floor Themes
 
 ## Systems Design
