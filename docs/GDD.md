@@ -57,14 +57,14 @@ graph TD;
 ```
 
 ## Micro Loop (Floor)
-1 Enter floor
-2 Explore rooms
-3 Fight enemies
-4 Collect loot/echoes
-5 Find boss room
-6 Boss battle
-7 Claim key item
-8 Find and unlock exit
+1. Enter floor
+2. Explore rooms
+3. Fight enemies
+4. Collect loot/echoes
+5. Find boss room
+6. Boss battle
+7. Claim key item
+8. Find and unlock exit
 
 ## Game Mechanics
 
