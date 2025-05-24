@@ -85,7 +85,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Inspired by: Hades, Enter the Gungeon, The Binding of Isaac
 Camera system inspired by The Precinct
 
-## 📞 Contact
+### 📞 Contact
 
 Developer: Eru0bay
 Email: Ery0bay@gmail.com
