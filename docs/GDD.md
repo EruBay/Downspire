@@ -78,7 +78,7 @@ graph TD;
 See detailed documentation: [Combat System](/docs/design/combat-system.md)
 
 ### Progression
-See detailed documentation: [CMeta Progression](/docs/design/meta-progression.md)
+See detailed documentation: [Meta Progression](/docs/design/meta-progression.md)
 
 ## Visual Design
 
