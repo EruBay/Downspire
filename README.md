@@ -89,9 +89,9 @@ Camera system inspired by The Precinct
 
 ## 📞 Contact
 
-Developer: Eru0bay
-Email: Ery0bay@gmail.com
-Discord: Join our server
+- Developer: Eru0bay
+- Email: Ery0bay@gmail.com
+- Discord: Join our server
 
 
 <p align="center">Made with ❤️ and ☕</p>
