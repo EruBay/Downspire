@@ -1,6 +1,6 @@
 # Game Design Document - Downspire
 
-> Last Updated: January 2025  
+> Last Updated: May 2025  
 > Version: 1.0.0
 
 ## Table of Contents
