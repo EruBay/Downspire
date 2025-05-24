@@ -158,14 +158,6 @@ Resolution: 1920x1080
 Framerate: 60 FPS stable
 Load Times: <3 seconds between floors
 
-
-Back to Documentation
-
----
-
-## /docs/CHANGELOG.md
-
-
 # Changelog
 
 All notable changes to Downspire will be documented in this file.
