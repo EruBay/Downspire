@@ -1,4 +1,31 @@
-# Downspire
+Downspire GitHub Repository Structure
+Repository Structure
+downspire/
+├── README.md
+├── .gitignore
+├── .gitattributes
+├── LICENSE
+├── docs/
+│   ├── README.md
+│   ├── GDD.md
+│   ├── CHANGELOG.md
+│   ├── CONTRIBUTING.md
+│   ├── design/
+│   │   ├── combat-system.md
+│   │   ├── floor-themes.md
+│   │   ├── meta-progression.md
+│   │   └── narrative.md
+│   └── technical/
+│       ├── architecture.md
+│       ├── unity-setup.md
+│       └── performance.md
+├── src/
+│   └── (Unity project files)
+└── assets/
+    └── (Raw assets, concepts)
+
+/README.md (Repository Root)
+markdown# Downspire
 
 A top-down roguelite where you descend from floor 100 to floor 1 of a mysterious tower. Death returns you to the top, but collected "Echoes" persist for permanent upgrades.
 
@@ -29,7 +56,7 @@ A top-down roguelite where you descend from floor 100 to floor 1 of a mysterious
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/EruBay/Downspire.git
+git clone https://github.com/yourusername/downspire.git
 
 # Navigate to the project
 cd downspire
@@ -39,7 +66,6 @@ git lfs install
 
 # Pull LFS files
 git lfs pull
-```
 Running the Game
 
 Open Unity Hub
