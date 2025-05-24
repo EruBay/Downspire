@@ -55,7 +55,8 @@ graph TD;
     J --> K[Upgrade Character];
     K --> A;
 ```
-### Micro Loop (Floor)
+
+## Micro Loop (Floor)
 Enter floor
 Explore rooms
 Fight enemies
@@ -65,7 +66,7 @@ Boss battle
 Claim key item
 Find and unlock exit
 
-### Game Mechanics
+## Game Mechanics
 Movement
 
 8-directional movement with analog stick support
@@ -78,7 +79,7 @@ See detailed documentation: Combat System
 Progression
 See detailed documentation: Meta Progression
 
-### Visual Design
+## Visual Design
 Camera System
 
 Type: 2.5D top-down perspective
@@ -99,7 +100,7 @@ Palette: Varies by floor theme
 Lighting: Dynamic shadows, ambient glow
 Effects: Particle systems for atmosphere
 
-### evel Design
+## Level Design
 
 Floor Structure
 
@@ -111,7 +112,7 @@ Pacing: Combat -> Exploration -> Boss
 Example Floors
 See detailed documentation: Floor Themes
 
-### Systems Design
+## Systems Design
 Enemy AI
 
 Behavior Trees for complex enemies
@@ -126,11 +127,11 @@ Coins: Floor currency (lost on death)
 Items: Temporary power-ups
 Artifacts: Permanent collection items
 
-### Narrative
+## Narrative
 
 See detailed documentation: Narrative
 
-### Monetization
+## Monetization
 Business Model
 
 Premium Game: $19.99 USD
@@ -143,7 +144,7 @@ Steam Early Access
 Full Steam Release
 Console Ports (Switch, PlayStation, Xbox)
 
-### Technical Requirements
+## Technical Requirements
 Minimum Specs
 
 OS: Windows 10
@@ -158,7 +159,7 @@ Resolution: 1920x1080
 Framerate: 60 FPS stable
 Load Times: <3 seconds between floors
 
-# Changelog
+## Changelog
 
 All notable changes to Downspire will be documented in this file.
 
