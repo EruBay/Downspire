@@ -16,5 +16,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
-[Unreleased]: https://github.com/Ery0bay/downspire/compare/v0.1.0...HEAD
-[0.1.0]: https://github.com/Ery0bay/downspire/releases/tag/v0.1.0
+[Unreleased]: https://github.com/Ery0bay/downspire/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/Ery0bay/downspire/releases/tag/v1.0.0
