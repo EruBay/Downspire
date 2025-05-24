@@ -29,7 +29,7 @@ Start with the [GDD](GDD.md) and explore the [design folder](design/).
 Check [Unity Setup](technical/unity-setup.md) first, then review [Architecture](technical/architecture.md).
 
 ### For Contributors
-Please read [CONTRIBUTING](CONTRIBUTING.md) before submitting pull requests.
+Please read [CONTRIBUTING](CONTRIBUTING.md).
 
 ## 📝 Documentation Standards
 
