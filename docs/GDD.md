@@ -106,7 +106,7 @@ See detailed documentation: [Meta Progression](/docs/design/meta-progression.md)
 - Pacing: Combat -> Exploration -> Boss
 
 ### Example Floors
-See detailed documentation: Floor Themes
+See detailed documentation: [Floor Themes](/docs/design/floor-themes.md)
 
 ## Systems Design
 ### Enemy AI
@@ -124,8 +124,7 @@ See detailed documentation: Floor Themes
 - Artifacts: Permanent collection items
 
 ## Narrative
-
-See detailed documentation: Narrative
+See detailed documentation: [Narrative](/docs/design/narrative.md)
 
 ## Monetization
 ### Business Model
@@ -138,7 +137,7 @@ See detailed documentation: Narrative
 
 1. Steam Early Access
 2. Full Steam Release
-3. Console Ports (Switch, PlayStation, Xbox)
+3. Console Ports (PlayStation, Xbox)
 
 ## Technical Requirements
 ### Minimum Specs
