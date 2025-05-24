@@ -109,83 +109,48 @@ See detailed documentation: Meta Progression
 See detailed documentation: Floor Themes
 
 ## Systems Design
-Enemy AI
+### Enemy AI
 
-Behavior Trees for complex enemies
-State Machines for simple enemies
-Aggro System with sight/sound detection
-Coordinated Attacks for group encounters
+- Behavior Trees for complex enemies
+- State Machines for simple enemies
+- Aggro System with sight/sound detection
+- Coordinated Attacks for group encounters
 
-Loot System
+### Loot System
 
-Echoes: Meta-currency (persistent)
-Coins: Floor currency (lost on death)
-Items: Temporary power-ups
-Artifacts: Permanent collection items
+- Echoes: Meta-currency (persistent)
+- Coins: Floor currency (lost on death)
+- Items: Temporary power-ups
+- Artifacts: Permanent collection items
 
 ## Narrative
 
 See detailed documentation: Narrative
 
 ## Monetization
-Business Model
+### Business Model
 
-Premium Game: $19.99 USD
-No Microtransactions
-Potential DLC: New character classes, floor packs
+- Premium Game: $19.99 USD
+- No Microtransactions
+- Potential DLC: New character classes, floor packs
 
-Platform Strategy
+### Platform Strategy
 
-Steam Early Access
-Full Steam Release
-Console Ports (Switch, PlayStation, Xbox)
+1. Steam Early Access
+2. Full Steam Release
+3. Console Ports (Switch, PlayStation, Xbox)
 
 ## Technical Requirements
-Minimum Specs
+### Minimum Specs
 
-OS: Windows 10
-CPU: Intel i3 or equivalent
-RAM: 4GB
-GPU: GTX 750 or equivalent
-Storage: 2GB
+- OS: Windows 10
+- CPU: Intel i3 or equivalent
+- RAM: 4GB
+- GPU: GTX 750 or equivalent
+- Storage: 2GB
 
-Performance Targets
+### Performance Targets
 
-Resolution: 1920x1080
-Framerate: 60 FPS stable
-Load Times: <3 seconds between floors
-
-## Changelog
-
-All notable changes to Downspire will be documented in this file.
-
-The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
-and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
-
-## [Unreleased]
-
-### Added
-- Initial project setup
-- Basic movement system
-- Camera controller
-- Project documentation
-
-### Changed
-- Switched from 3D to 2D implementation
-- Refined camera angle to 45 degrees
-
-### Fixed
-- N/A
-
-## [0.1.0] - 2025-01-XX
-
-### Added
-- Unity project initialization
-- Basic folder structure
-- Core documentation
-- GitHub repository setup
-
----
-
-[Unreleased]: https://github.com/yourusername/downspire/compare/v0.1.0...HEAD
-[0.1.0]: https://github.com/yourusername/downspire/releases/tag/v0.1.0
+- Resolution: 1920x1080
+- Framerate: 60 FPS stable
+- Load Times: <3 seconds between floors
