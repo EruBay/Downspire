@@ -8,8 +8,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Added
-Start of the project
+- N/A
 
+## [0.0.0] - 2025-05-24
+### Added
+- Project beining
 ---
 
 [Unreleased]: https://github.com/Ery0bay/downspire/compare/v0.1.0...HEAD
