@@ -55,7 +55,7 @@ graph LR
     J --> K[Upgrade Character]
     K --> A
 Micro Loop (Floor)
-
+```
 Enter floor
 Explore rooms
 Fight enemies
