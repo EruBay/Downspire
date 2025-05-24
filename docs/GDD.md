@@ -54,8 +54,8 @@ graph TD;
     I -->|No| B;
     J --> K[Upgrade Character];
     K --> A;
-Micro Loop (Floor)
 ```
+Micro Loop (Floor)
 Enter floor
 Explore rooms
 Fight enemies
