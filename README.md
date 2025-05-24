@@ -40,13 +40,13 @@ git lfs install
 # Pull LFS files
 git lfs pull
 Running the Game
-
+```
 Open Unity Hub
 Add the project (select the src folder)
 Open the project in Unity
 Load the MainMenu scene
 Press Play
-```
+
 📖 Documentation
 
 Game Design Document
