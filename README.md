@@ -46,7 +46,7 @@ Add the project (select the src folder)
 Open the project in Unity
 Load the MainMenu scene
 Press Play
-
+```
 📖 Documentation
 
 Game Design Document
@@ -94,4 +94,3 @@ Discord: Join our server
 
 
 <p align="center">Made with ❤️ and ☕</p>
-```
