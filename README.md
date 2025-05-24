@@ -76,16 +76,16 @@ Changelog
  Complete narrative
  Steam integration
 
-### 🤝 Contributing
+## 🤝 Contributing
 See CONTRIBUTING.md for details on our code of conduct and the process for submitting pull requests.
-### 📝 License
+## 📝 License
 This project is licensed under the MIT License - see the LICENSE file for details.
-### 🙏 Acknowledgments
+## 🙏 Acknowledgments
 
 Inspired by: Hades, Enter the Gungeon, The Binding of Isaac
 Camera system inspired by The Precinct
 
-### 📞 Contact
+## 📞 Contact
 
 Developer: Eru0bay
 Email: Ery0bay@gmail.com
