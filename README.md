@@ -29,7 +29,7 @@ A top-down roguelite where you descend from floor 100 to floor 1 of a mysterious
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/downspire.git
+git clone https://github.com/EruBay/Downspire.git
 
 # Navigate to the project
 cd downspire
