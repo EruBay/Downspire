@@ -39,3 +39,60 @@ git lfs install
 
 # Pull LFS files
 git lfs pull
+```
+Running the Game
+
+Open Unity Hub
+Add the project (select the src folder)
+Open the project in Unity
+Load the MainMenu scene
+Press Play
+
+📖 Documentation
+
+Game Design Document
+Technical Documentation
+Design Documents
+Changelog
+
+🗺️ Development Roadmap
+Phase 1: Core Prototype ✅
+
+ Basic movement system
+ Combat mechanics
+ First themed floor (Flooded Office)
+ Death/respawn system
+
+Phase 2: Vertical Slice
+
+ 5 complete floors
+ Meta-progression shop
+ Save system
+ UI/Menu system
+
+Phase 3: Full Release
+
+ 100 unique floors
+ Multiple character classes
+ Complete narrative
+ Steam integration
+
+🤝 Contributing
+See CONTRIBUTING.md for details on our code of conduct and the process for submitting pull requests.
+📝 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+🙏 Acknowledgments
+
+Inspired by: Hades, Enter the Gungeon, The Binding of Isaac
+Camera system inspired by The Precinct
+
+📞 Contact
+
+Developer: [Your Name]
+Email: your.email@example.com
+Twitter: @yourusername
+Discord: Join our server
+
+
+<p align="center">Made with ❤️ and ☕</p>
+```
