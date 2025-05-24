@@ -49,7 +49,7 @@ Press Play
 
 ## 📖 Documentation
 
-Game Design Document
+[Game Design Document](/docs/)
 Technical Documentation
 Design Documents
 Changelog
