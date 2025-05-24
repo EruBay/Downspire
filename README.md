@@ -49,10 +49,10 @@ Press Play
 
 ## 📖 Documentation
 
-[Game Design Document](/docs)
-[Technical Documentation](/docs/technical)
-[Design Documents](/docs/design)
-[Changelog](/docs/CHANGELOG.md)
+- [Game Design Document](/docs)
+- [Technical Documentation](/docs/technical)
+- [Design Documents](/docs/design)
+- [Changelog](/docs/CHANGELOG.md)
 
 
 
