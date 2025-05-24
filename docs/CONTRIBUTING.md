@@ -36,5 +36,5 @@ Enhancement suggestions are tracked as GitHub issues. When creating an enhanceme
 - Update the changelog
 - Link between related documents
 
-Questions?
+## Questions?
 - Feel free to open an issue with the "question" label.
